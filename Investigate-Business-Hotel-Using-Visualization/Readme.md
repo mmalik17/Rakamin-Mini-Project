@@ -12,3 +12,9 @@ Here are several question that need to be answered for the project completion: <
 - Task 4: Create a plot that shows the ratio of order cancellations to the leadtime of bookings for each type of hotel <br>
 
 The detail explanation about the project is described in PDF File
+
+# Requirement for running the code
+Library needed to be installed: <br>
+
+- Data Analysis: Numpy, Pandas, 
+- Data Visualization: Matplotlib, Seaborn
