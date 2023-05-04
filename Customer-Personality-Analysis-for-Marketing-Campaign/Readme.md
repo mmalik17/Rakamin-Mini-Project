@@ -3,7 +3,7 @@ Predict Customer Personality To Boost Marketing Campaign By Using Machine Learni
 
 # Project Overview
 
-The purpose of this project is creating machine learning model that could predict which customer that should be targetted in marketing campaign and which customer that should be ignored. The feature for this model is customer personality  
+The purpose of this project is creating machine learning model that could create a cluster to predict which customer that should be targetted in marketing campaign and which customer that should be ignored. The feature for this model is customer personality  
 
 Here are several question that need to be answered for the project completion:
 
@@ -16,6 +16,7 @@ The detail explanation about the project is described in PDF File
 
 # Requirement for running the code
 Library needed to be installed: <br>
-- Data Analysis: Numpy, Pandas, Matplotlib, Seaborn  
+- Data Analysis : Numpy, Pandas
+- Data Visualization : Matplotlib, Seaborn  
 - Modelling : sklearn, yellowbrick
 
