@@ -16,7 +16,6 @@ The detail explanation about the project is described in PDF File
 
 # Requirement for running the code
 Library needed to be installed: <br>
-- Data Analysis: Numpy, Pandas, Matplotlib, Seaborn 
-- Data Preprocessing: Datetime, sklearn, scipy, imblearn
-- Modelling : sklearn, shap, xgboost
+- Data Analysis: Numpy, Pandas, Matplotlib, Seaborn  
+- Modelling : sklearn, yellowbrick
 
