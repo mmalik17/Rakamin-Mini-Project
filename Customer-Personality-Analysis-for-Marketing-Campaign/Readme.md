@@ -14,3 +14,9 @@ Here are several question that need to be answered for the project completion:
 
 The detail explanation about the project is described in PDF File
 
+# Requirement for running the code
+Library needed to be installed: <br>
+- Data Analysis: Numpy, Pandas, Matplotlib, Seaborn 
+- Data Preprocessing: Datetime, sklearn, scipy, imblearn
+- Modelling : sklearn, shap, xgboost
+
