@@ -3,7 +3,7 @@ Predict Clicked Ads Customer Classification by Using Machine Learning
 
 # Project Overview
 
-The purpose of this project is ........... <br>
+The purpose of this project is creating the machine learning model that could classify whether the customer will clicked on Ad or not. With this classification model, the accuracy is expected to be increased and the company profitabiity will be increased.  <br>
 
 Here are several question that need to be answered for the project completion: <br>
 - Task 1: <br>
