@@ -17,7 +17,4 @@ The detail explanation about the project is described in PDF File
 - Dataset: (available in folder dataset)
 - Software used: PgAdmin (management tool PostgreSQL language)
 
-Customers, Geolocation, Orders, Order_items, Order_Payments : Payment detail (method and value)
-Order_Reviews : Review score and comment of the transaction
-Product : data of product that available
-Sellers
+Customers, Geolocation, Orders, Order_items, Order_Payments, Order_Reviews, Product, Sellers
