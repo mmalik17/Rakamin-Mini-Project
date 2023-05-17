@@ -12,3 +12,5 @@ Here are several question that need to be answered for the project completion:
 - Task 4: Create a table that contains information on the amount used for each type of payment for each year. Then, give the visualization chart about payment type based on that table.
 
 The detail explanation about the project is described in PDF File
+
+# Requirements Needed:
