@@ -15,4 +15,4 @@ The detail explanation about the project is described in PDF File
 
 # Requirements Needed:
 - Dataset: (available in folder dataset)
-- Software used:
+- Software used: PgAdmin (management tool PostgreSQL language)
