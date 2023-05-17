@@ -14,7 +14,7 @@ Here are several question that need to be answered for the project completion:
 The detail explanation about the project is described in PDF File
 
 # Requirements Needed:
-- Dataset: (available in folder dataset)
+- Dataset: Customers, Geolocation, Orders, Order_items, Order_Payments, Order_Reviews, Product, Sellers (available in folder dataset)
 - Software used: PgAdmin (management tool PostgreSQL language)
 
-Customers, Geolocation, Orders, Order_items, Order_Payments, Order_Reviews, Product, Sellers
+
