@@ -16,3 +16,12 @@ The detail explanation about the project is described in PDF File
 # Requirements Needed:
 - Dataset: (available in folder dataset)
 - Software used: PgAdmin (management tool PostgreSQL language)
+
+Customers : customer profile description (ID and customer location). The primary key is customer_unique_id
+Geolocation : detail data of location, such as longitude, latitude, city, etc. The primary key is zip_code
+Orders : description of one single transaction from customer, timestamp, and delivery time.
+Order_items : Items that ordered in one transaction
+Order_Payments : Payment detail (method and value)
+Order_Reviews : Review score and comment of the transaction
+Product : data of product that available
+Sellers
