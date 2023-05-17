@@ -14,3 +14,5 @@ Here are several question that need to be answered for the project completion:
 The detail explanation about the project is described in PDF File
 
 # Requirements Needed:
+- Dataset: (available in folder dataset)
+- Software used:
